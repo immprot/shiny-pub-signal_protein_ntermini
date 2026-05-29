@@ -1,4 +1,4 @@
-# A proteome-wide atlas reveals pervasive N-terminal processing of signal proteins
+# ProteoLex enables large-scale discovery and prediction of endogenous proteolysis from shotgun proteomics data
 
 The manuscript is currently under revision and the corresponding code will be made available soon at [immprot.org/signalproteinntermini](https://immprot.org/).
 
